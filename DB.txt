@@ -1,0 +1,3 @@
+db username: lajahom
+db password: nasko.111.lajahom.100974
+db: wordpress_1
